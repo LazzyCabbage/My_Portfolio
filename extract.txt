@@ -1,0 +1,129 @@
+
+--- Profile.pdf ---
+   
+Contact
+ashutoshbansal88475@icloud.
+com
+www.linkedin.com/in/ashutosh-
+bansal-580974316 (LinkedIn)
+Top Skills
+Ethereum
+Blockchain
+Full-Stack Development
+Ashutosh Bansal
+building stamped | developer @StratoINC
+Bathinda, Punjab, India
+Experience
+Stamped
+Senior Executive
+January 2026 - Present (4 months)
+Roorkee, Uttarakhand, India
+Education
+Indian Institute of Technology, Roorkee
+Bachelors of science - bs, Mathematics and Computer Science · (July
+2024 - July 2028)
+  Page 1 of 1
+
+--- resume_ashutosh.pdf ---
+ashutosh_b@ma.iitr.ac.in
++91-884709962 Ashutosh Bansal
+LinkedIn
+E D U C A T I O N
+Roorkee, IN IIT ROORKEE Aug 2024 – Present
+Bachelors in Mathematics & Computing
+Academic Achievements:
+•Graduating grade: 9.0 GPA
+•CBSE National Science Exhibition third Position. (2023)
+•IAPT physics olympiad qualified
+W O R K E X P E R I E N C E
+developer STAMPEDJAN 2026 – Present
+• Built a system to verifyimage authenticityusingdevice attestation,secure capture, andcryptographic
+proofs
+• Addresses untrusted visual data inlogistics, inspections, and complianceby converting images into verifiable
+operational evidence
+Developer STRATO INCMarch 2024 – present
+• BuiltStrato AI, amulti-LLM chat playgroundwithend-to-end encryption, real-time streaming via
+WebSockets, andRedisfor response caching and rate limiting; backend powered byGo.
+• CreatedOthellowith local and online multiplayer, plus a yet to be beatenAI modetrained usingPyTorch.
+• Shipped additional apps includingStrato Meet(video conferencing),Quizzer(quiz platform), andStrato
+Expenses(expense tracker), leveraging modern full-stack stacks andCI/CD.
+Freelancer INDEPENDENTSep 2022 – Present
+• Delivered10+ full-stackweb and mobile projects for global clients across platforms likeFiverrandFreelancer.
+• Specialized in buildingportfolios,ERP systemsandmanagement systemsusingReact,Next.js, and
+Flutterincluding DeFi dashboard,wallet integration and smart contracts.
+•Maintained high client satisfaction with timely delivery, clean code, and scalable architecture.
+E X T R A C U R R I C U L A R
+EthMumbai Hackathon Hashed EmergentFeb 2026
+•Built aZK Proof infrastructureto verify and authenticate images taken at capture time!
+• Awarded1stplace under product vision ofHashed Emergent VC. Got selected inHashed Vibe Haus
+residency program.
+Deputy Contingent Leader IIT ROORKEEFeb 2025 – April 2025
+• Team Leadand served asDeputy Leader of Contingent Fortran, guiding multiple teams through
+company-sponsored hackathon problem statements over a 2-month series.
+P E R S O N A L P R O J E C T S
+•Chronicle(2025): Created a cross-platform, privacy-first activity tracker on local LLMs and semantic search
+•Chrono(2025): Designed a time-based DeFi lending protocol inspired by Euler and built natively on Flow.
+• Traylist(2025): A Chrome extension withReactfrontend andGobackend fortracking reading/watching
+habits, withAI-driven productivity insights.
+• Astrikos Modeling(2025): A3D infrastructure visualizationtool usingReact + TypeScript,Three.js,
+Mapbox, andD3.js, Unity WebGL, backed byNode.jsandFirebasefor real-time urban planning
+• AI Nexus(2025): AWeb3-based platformfor listing and usingAI agents(code reviewers, domain experts),
+built withFlask,LangChain,React, and customSRC20 tokensfor rating-based access.
+S K I L L S
+Mobile:Flutter,Dart,Riverpod,BLoC,Hive
+Frontend:React,Next.js,TypeScript,JavaScript,HTML/CSS,Three.js,D3.js,GSAP
+Backend:Go,Python (Flask, FastAPI),Node.js (Express),Django,LangChain
+Databases:PostgreSQL,MongoDB,Firebase,Redis
+AI/ML:PyTorch,Keras,NumPy,OpenCV,MoviePy
+DevOps:AWS,Docker,GitHub Actions,Render,Railway,Vercel
+
+--- RESUME_BlockC.pdf ---
+ashutosh_b@ma.iitr.ac.in
++91-884709962 Ashutosh Bansal
+LinkedIn
+E D U C A T I O N
+Roorkee, IN IIT ROORKEE Aug 2024 – Present
+Bachelors in Mathematics & Computing
+Academic Achievements:
+•Graduating grade: 9.0 GPA
+•CBSE National Science Exhibition third Position. (2023)
+•IAPT physics olympiad qualified
+W O R K E X P E R I E N C E
+Developer STAMPEDJAN 2026 – Present
+• Built a system to verifyimage authenticityusingdevice attestation,secure capture, andcryptographic
+proofs
+• Addresses untrusted visual data inlogistics, inspections, and complianceby converting images into verifiable
+operational evidence
+Developer STRATO INCMarch 2024 – present
+• BuiltStrato AI, amulti-LLM chat playgroundwithend-to-end encryption, real-time streaming via
+WebSockets, andRedisfor response caching and rate limiting; backend powered byGo.
+• CreatedOthellowith local and online multiplayer, plus a yet to be beatenAI modetrained usingPyTorch.
+• Shipped additional apps includingStrato Meet(video conferencing),Quizzer(quiz platform), andStrato
+Expenses(expense tracker), leveraging modern full-stack stacks andCI/CD.
+Freelancer INDEPENDENTSep 2022 – Present
+• Delivered10+ full-stackweb and mobile projects for global clients across platforms likeFiverrandFreelancer.
+• Specialized in buildingportfolios,ERP systemsandmanagement systemsusingReact,Next.js, and
+Flutterincluding DeFi dashboard,wallet integration and smart contracts.
+•Maintained high client satisfaction with timely delivery, clean code, and scalable architecture.
+P E R S O N A L P R O J E C T S
+• SwapPool(2026): A minimalAMM-based DEXimplementingconstant product formulaforERC-20
+token pairs, with liquidity provision, proportional fee distribution to liquidity providers, and slippage protection;
+built inSolidityand tested withHardhat.
+• Chrono(2025): Designed atime-based DeFi lending protocolinspired by Euler and built natively onFlow.
+•Trade3Hub(2026): A decentralizedpeer-to-peer marketplace contractsupportingERC-20token listings,
+escrow-based settlements, and dispute timeouts; frontend inReactwithMetaMaskintegration.
+• Astrikos Modeling(2025): A3D infrastructure visualizationtool usingReact + TypeScript,Three.js,
+Mapbox, andD3.js, Unity WebGL, backed byNode.jsandFirebasefor real-time urban planning.
+• AI Nexus(2025): AWeb3-based platformfor listing and usingAI agents(code reviewers, domain experts),
+built withFlask,LangChain,React, and customSRC20 tokensfor rating-based access.
+• FractaOwn(2025): Afractional ownership protocolwhere a singleRWA-backed tokencan be collectively
+held by multiple wallets withproportional share tracking, transfer rights, andon-chain ownership
+distributionrecords; deployed onBSC testnet.
+S K I L L S
+Mobile:Flutter,Dart,Riverpod,BLoC,Hive
+Frontend:React,Next.js,TypeScript,JavaScript,HTML/CSS,Three.js,D3.js,GSAP
+Backend:Go,Python (Flask, FastAPI),Node.js (Express),Django,LangChain
+Databases:PostgreSQL,MongoDB,Firebase,Redis
+AI/ML:PyTorch,Keras,NumPy,OpenCV,MoviePy
+DevOps:AWS,Docker,GitHub Actions,Render,Railway,Vercel
+Blockchain:Solidity,Hardhat,ethers.js,Web3.js,Flow,SRC20,Smart Contracts,DeFi
