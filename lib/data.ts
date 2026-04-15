@@ -2,14 +2,13 @@ export const personalInfo = {
   name: "Ashutosh Bansal",
   role: "full-stack & blockchain developer",
   subtitle: "Building systems at the intersection of Web3, AI, and great UX.",
-  bio: "I am a Mathematics & Computing undergraduate at IIT Roorkee with a 9.0 GPA. Since 2022, I have been building real products, passionate about cryptographic systems, DeFi protocols, and elegant frontends. I'm a hackathon-winning builder who loves turning complex ideas into polished, production-ready experiences.",
+  bio: "I am a Mathematics & Computing undergraduate at IIT Roorkee. Since 2022, I have been building real products, passionate about cryptographic systems, DeFi protocols, and elegant frontends. I love turning complex ideas into polished, production-ready experiences.",
   email: "ashutosh_b@ma.iitr.ac.in",
   linkedin: "https://www.linkedin.com/in/ashutosh-bansal-580974316",
   github: "https://github.com/ashutoshbansal",
 };
 
 export const stats = [
-  { label: "9.0 GPA", key: "gpa" },
   { label: "10+ Client Projects", key: "projects" },
   { label: "3 Years Building", key: "years" },
 ];

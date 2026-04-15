@@ -50,9 +50,6 @@ export default function Hero() {
             <span className="neu-flat font-mono text-xs uppercase tracking-wider px-4 py-2 text-[var(--text-muted)] border border-[var(--border)]">
               IIT Roorkee • B.Sc Math & Computing
             </span>
-            <span className="neu-flat font-mono text-xs uppercase tracking-wider px-4 py-2 text-[var(--text-muted)] border border-[var(--border)]">
-              EthMumbai 2026 Winner
-            </span>
             <span className="neu-flat font-mono text-xs uppercase tracking-wider px-4 py-2 text-[var(--text-muted)] border border-[var(--border)] flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse shadow-[0_0_8px_rgba(34,197,94,0.6)]"></span>
               Open to Opportunities

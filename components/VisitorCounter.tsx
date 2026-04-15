@@ -148,7 +148,7 @@ export default function VisitorCounter() {
           <button 
             onClick={handleVisit}
             disabled={interacting || loading}
-            className={`neu-raised w-full sm:w-auto px-10 py-4 rounded-xl font-semibold tracking-wide transition-all flex items-center justify-center gap-3 relative overflow-hidden group ${
+            className={`neu-raised w-full sm:w-auto px-10 py-5 rounded-xl font-bold tracking-wider text-sm transition-all flex items-center justify-center gap-3 relative overflow-hidden group ${
               interacting || loading ? "opacity-70 cursor-not-allowed" : "hover:brightness-110 active:scale-95"
             }`}
             style={{ 
@@ -161,30 +161,30 @@ export default function VisitorCounter() {
             
             <span className="relative z-10 text-[var(--text-primary)] flex items-center gap-2">
               {interacting ? (
-                <><Loader2 className="animate-spin" size={20} /> Interacting...</>
+                <><Loader2 className="animate-spin" size={20} /> Connecting & Signing...</>
               ) : hasProvider ? (
-                "Leave a Mark"
+                "Connect MetaMask to Mark Presence"
               ) : (
-                "Connect Wallet to Sign"
+                "Install MetaMask to Mark Presence"
               )}
             </span>
           </button>
 
-          <p className="mt-6 font-mono text-xs text-[var(--text-muted)]">
-            {count !== null ? `${count} people have visited this page on-chain` : "Loading network data..."}
+          <p className="mt-8 font-mono text-xs text-[var(--text-muted)]">
+            {count !== null ? `${count} people have marked their presence on-chain` : "Loading network data..."}
           </p>
 
           {error && (
-            <div className="mt-6 p-4 rounded-xl neu-inset border border-red-500/20 text-red-400 text-sm flex items-center gap-2 max-w-[400px]">
-              <AlertCircle size={16} className="shrink-0" />
+            <div className="mt-6 p-4 rounded-xl neu-inset border border-red-500/20 text-red-400 text-sm flex items-center gap-3 max-w-[400px]">
+              <AlertCircle size={20} className="shrink-0" />
               <span className="text-left font-mono">{error}</span>
             </div>
           )}
 
           {success && (
-            <div className="mt-6 p-4 rounded-xl neu-inset border border-green-500/20 text-green-400 text-sm flex items-center gap-2">
-              <CheckCircle2 size={16} className="shrink-0" />
-              <span className="font-mono">Transaction successful! You are part of history.</span>
+            <div className="mt-6 p-4 rounded-xl neu-inset border border-green-500/20 text-green-400 text-sm flex items-center gap-3">
+              <CheckCircle2 size={20} className="shrink-0" />
+              <span className="font-mono">Presence marked successfully! You are part of history.</span>
             </div>
           )}
         </motion.div>

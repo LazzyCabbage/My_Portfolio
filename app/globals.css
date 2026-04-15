@@ -1,22 +1,5 @@
 @import "tailwindcss";
 
-@theme {
-  --color-bg: var(--bg);
-  --color-bg-raised: var(--bg-raised);
-  --color-bg-inset: var(--bg-inset);
-  --color-accent: var(--accent);
-  --color-text-primary: var(--text-primary);
-  --color-text-muted: var(--text-muted);
-  --color-border: var(--border);
-
-  --font-sora: "Sora", sans-serif;
-  --font-mono: "DM Mono", monospace;
-  
-  --shadow-neu-raised: 6px 6px 14px var(--shadow-dark), -6px -6px 14px var(--shadow-light);
-  --shadow-neu-inset: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light);
-  --shadow-neu-flat: 3px 3px 8px var(--shadow-dark), -3px -3px 8px var(--shadow-light);
-}
-
 :root {
   --bg: #1a1a1f; 
   --bg-raised: #1f1f26;
@@ -29,6 +12,10 @@
   --text-muted: #7a7a8c;
   --text-accent: #6c63ff; 
   --border: rgba(255,255,255,0.06); 
+  
+  --shadow-neu-raised: 6px 6px 14px var(--shadow-dark), -6px -6px 14px var(--shadow-light);
+  --shadow-neu-inset: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light);
+  --shadow-neu-flat: 3px 3px 8px var(--shadow-dark), -3px -3px 8px var(--shadow-light);
 }
 
 html, body {
